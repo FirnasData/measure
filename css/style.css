@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(226, 228, 227);
+}
+.footstyle{
+    height: 100px;
+    font-weight: 500;
+    background-color: black;
+}
+.navback{
+    background-color: black;
+    font-size: 20px;
+}
+#header{
+    height: 100px;
+}
+.h3:hover{
+    
+    font-size: xx-large;
+    background-color: rgb(23, 23, 26);
+    opacity: 50%;
+}
+.dropdown-menu{
+    background-color: rgb(156, 156, 156);
+}
+.dropdown-item{
+    color: rgb(255, 255, 255);
+}
